@@ -155,7 +155,7 @@ int main(void)
 	//--同理
 	
 	
-	//强制类型转换     double-----int 
+	//强制类型转换     double------int 
 	int f=(int)3.14;
 
 	return 0;
